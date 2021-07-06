@@ -66,6 +66,19 @@ body{
 .border p{
     margin: 3% 3%;
 }
+.border2{
+    margin-left:160px;
+    margin-right: 160px;
+    margin-bottom: 30px;
+}
+.border2 h2{
+    font-size: 50px;
+    font-weight: 700;
+}
+.border2 p{
+    font-size: 10px;
+    font-weight: 300;
+}
 .background-color{
     background-color: rgb(14, 14, 19);
     text-align: center;
