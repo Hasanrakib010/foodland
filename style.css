@@ -10,7 +10,7 @@ body{
     font-weight: 900;
 }
 .text-color{
-    color: salmon;
+    color: orangered;
 }
 .half-width{
     width: 50%;
@@ -27,7 +27,7 @@ body{
     font-weight: 900;
 }
 .button-style{
-    background-image: linear-gradient(orange, red);
+    background-image: linear-gradient(to right,orange, red);
     margin-top: 10px;
     text-decoration: none;
     color: white;
@@ -78,6 +78,7 @@ body{
 .border2 p{
     font-size: 10px;
     font-weight: 300;
+    padding-left: 10px;
 }
 .background-color{
     background-color: rgb(14, 14, 19);
