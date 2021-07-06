@@ -3,6 +3,16 @@ body{
 font-family: 'Open Sans', sans-serif;
     margin: 0;
 }
+.heading-section{
+    display: flex;
+    width: 20%;
+    font-size: 18px;
+}
+.heading-section img{
+    width: 60%;
+    margin: 10% 25%;
+    padding: 10% 10%;
+}
 .section-style1{
     display: flex;
 }
