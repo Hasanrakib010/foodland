@@ -66,3 +66,11 @@ body{
 .border p{
     margin: 3% 3%;
 }
+.background-color{
+    background-color: rgb(14, 14, 19);
+    text-align: center;
+    padding: 50px 50px;
+}
+.text-color2{
+    color:white;
+}
